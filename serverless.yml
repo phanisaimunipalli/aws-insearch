@@ -1,0 +1,30 @@
+service: rekognition-analysis-s3-image
+
+frameworkVersion: ">=2.72.0"
+
+provider:
+  name: aws
+  runtime: nodejs16.x
+  stage: dev
+  memorySize: 512
+  timeout: 10
+  region: us-west-1
+  iam:
+    role:
+      statements:
+        - Effect: Allow
+          Action:
+            - s3:*
+          Resource: "*"
+        - Effect: "Allow"
+          Action:
+            - "rekognition:*"
+          Resource: "*"
+
+functions:
+  imageAnalysis:
+    handler: handler.imageAnalysis
+    events:
+      - http:
+          path: analysis
+          method: post

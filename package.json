@@ -1,0 +1,10 @@
+{
+  "name": "insearch",
+  "description": "AWS InSearch is a Serverless App powered by AWS Lambda and AWS Rekognition which can detect items and get labels from the image uploaded into S3 Bucket.",
+  "version": "1.0.0",
+  "author": "PhaniSaiRamMunipalli",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.1233.0"
+  }
+}
