@@ -75,6 +75,11 @@ Invoke using CURL
 
 
 
+## InSearch API
+
+https://8riwh3ld2g.execute-api.us-west-1.amazonaws.com/dev/analysis 
+
+
 ## Screenshots
 
 
