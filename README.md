@@ -1,6 +1,6 @@
 <!-- ![Logo](https://github.com/phanisaimunipalli/aws-insearch/blob/master/images/insearch_logo.png?raw=true) -->
 
-![AWS InSearch Logo](/images/insearch_logo.png)
+![AWS InSearch Logo](/images/insearch_logo.png=300x300)
 
 # AWS InSearch - `Now Search Less`
 
