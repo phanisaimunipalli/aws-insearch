@@ -80,15 +80,15 @@ https://8riwh3ld2g.execute-api.us-west-1.amazonaws.com/dev/analysis
 
 **API Request & Response**
 
-![API Request Response](https://github.com/phanisaimunipalli/aws-insearch/blob/master/images/aws-insearch-reqres.png?raw=true)
+![API Request Response](/images/aws-insearch-reqres.png?raw=true)
 
 **IS-AWS S3 Bucket**
 
-![IS-AWS S3](https://github.com/phanisaimunipalli/aws-insearch/blob/master/images/aws-insearch-s3.png?raw=true)
+![IS-AWS S3](/images/aws-insearch-s3.png?raw=true)
 
 **IS-AWS Lambda Function**
 
-![IS-AWS Lambda](https://github.com/phanisaimunipalli/aws-insearch/blob/master/images/aws-insearch-lambda.png?raw=true)
+![IS-AWS Lambda](/images/aws-insearch-lambda.png?raw=true)
 
 ## Authors
 
