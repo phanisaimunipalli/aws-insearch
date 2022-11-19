@@ -76,7 +76,7 @@ https://8riwh3ld2g.execute-api.us-west-1.amazonaws.com/dev/analysis
 
 **Sample Scene/Image**
 
-![Sample Scene-insearch](https://github.com/phanisaimunipalli/aws-insearch/blob/master/images/table.jpeg?raw=true)
+![Sample Scene-insearch](https://raw.githubusercontent.com/phanisaimunipalli/aws-insearch/main/images/table.jpeg)
 
 **API Request & Response**
 
